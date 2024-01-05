@@ -285,7 +285,7 @@ nav a:hover::after {
 }
 
 #faq {
-    min-height: 120vh;
+    min-height: 70vh;
 }
 
 #faq main {
