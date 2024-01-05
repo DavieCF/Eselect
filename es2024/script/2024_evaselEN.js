@@ -116,25 +116,9 @@ const faqLEN = [
         question: "FAQ Question 1",
         anwer: "Here is the answer to FAQ Question 2.",
     },
-    {
-        question: "FAQ Question 1",
-        anwer: "Here is the answer to FAQ Question 2.",
-    },
-    {
-        question: "FAQ Question 1",
-        anwer: "Here is the answer to FAQ Question 2.",
-    },
 
 ]
 const faqREN = [
-    {
-        question: "FAQ Question 1",
-        anwer: "Here is the answer to FAQ Question 2.",
-    },
-    {
-        question: "FAQ Question 1",
-        anwer: "Here is the answer to FAQ Question 2.",
-    },
     {
         question: "FAQ Question 1",
         anwer: "Here is the answer to FAQ Question 2.",

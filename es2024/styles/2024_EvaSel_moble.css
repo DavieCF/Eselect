@@ -1,1 +1,100 @@
-@media (max-width: 768px) {}
+@media (max-width: 768px) {
+    nav {
+        display: none;
+    }
+
+    h1 {
+        font-size: 6vw;
+        font-family: 'Viga', sans-serif;
+    }
+
+    #webbody {
+        background-position: center 0.1vh;
+    }
+
+    .header {
+        height: 40vh;
+    }
+
+    #intro h4 {
+        font-size: 3vw;
+        margin-top: 3vh;
+    }
+
+    section {
+        padding-top: 0vh;
+    }
+
+    #speakers {
+        height: 105vh;
+    }
+
+    #speakers main {
+        height: 100vh;
+    }
+
+    .speaker_box {
+        border-radius: 10% 10%;
+        flex-flow: column;
+        height: auto;
+    }
+
+    .sb_img {
+
+        width: 35vw;
+        height: 30vw;
+        margin-bottom: 0px;
+        border-radius: 20%;
+    }
+
+    .sb_txt {
+        margin-top: 1vh;
+    }
+
+    .sb_txt h3,
+    .sb_txt h5,
+    .sb_txt p {
+        margin-left: 1px;
+        padding-left: 0px;
+    }
+
+    .sb_txt h3 {
+        padding: 0;
+        font-size: 4vw;
+    }
+
+    .sb_txt h5 {
+
+        width: 100%;
+        font-size: 2vw;
+    }
+
+    .sb_txt p {
+        font-size: 2.5vw;
+        padding: 0;
+        width: 100%;
+    }
+
+    #agenda {
+        height: 45vh;
+    }
+
+    .agenda_img {
+        margin-left: 0vh;
+        width: 100%;
+    }
+
+    #faq {
+        min-height: 40vh;
+    }
+
+    #organizer {
+        height: 20vw;
+    }
+
+
+    #organizer img {
+        width: 33%;
+    }
+
+}

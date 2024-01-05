@@ -9,6 +9,7 @@ img {
 }
 
 
+
 /* header,
 nav,
 aside,
@@ -78,7 +79,7 @@ section {
 }
 
 #webbody {
-    background-size: contain;
+    background-size: cover;
     color: black;
     background-position: center 7vh;
 }
