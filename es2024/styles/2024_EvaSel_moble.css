@@ -13,7 +13,7 @@
     }
 
     .header {
-        height: 40vh;
+        height: 30vh;
     }
 
     #intro h4 {
@@ -26,14 +26,15 @@
     }
 
     #speakers {
-        height: 105vh;
+        height: 125vh;
     }
 
     #speakers main {
-        height: 100vh;
+        height: 120vh;
     }
 
     .speaker_box {
+        width: 48%;
         border-radius: 10% 10%;
         flex-flow: column;
         height: auto;
@@ -41,7 +42,7 @@
 
     .sb_img {
 
-        width: 35vw;
+        width: 37vw;
         height: 30vw;
         margin-bottom: 0px;
         border-radius: 20%;
@@ -49,6 +50,7 @@
 
     .sb_txt {
         margin-top: 1vh;
+        height: 16vh;
     }
 
     .sb_txt h3,

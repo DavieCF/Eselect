@@ -70,32 +70,42 @@ const speakersEN = [
     {
         sp_image: "./es2024/images/CCC.jpg",
         sp_name: "謝瑞坤",
-        sp_title: "Sunday first Sunday first",
-        sp_discript: `Sunday first Sunday first Sunday first Sunday first Sunday first `
+        sp_title: "",
+        sp_discript: `現職
+        <br>馬偕紀念醫院 兼任主治醫師 
+        <br>臺灣癌症全人關懷基金會 董事長`
     },
     {
         sp_image: "./es2024/images/LEL.jpg",
         sp_name: "劉彥麟",
-        sp_title: "Sunday first Sunday first",
-        sp_discript: `Sunday first Sunday first Sunday first Sunday first Sunday first `
+        sp_title: "",
+        sp_discript: `現職 
+        <br>臺北癌症中心兒童腫瘤團隊 主治醫師 
+        <br>臺北醫學大學附設醫院小兒部 專任主治醫師 `
     },
     {
         sp_image: "./es2024/images/LML.jpg",
         sp_name: "梁慕理",
-        sp_title: "Sunday first Sunday first",
-        sp_discript: `Sunday first Sunday first Sunday first Sunday first Sunday first `
+        sp_title: "",
+        sp_discript: `現職 
+        <br>馬偕紀念醫院神經外科 主治醫師 
+        <br>馬偕兒童醫院神經外科 主治醫師  `
     },
     {
         sp_image: "./es2024/images/LLL.jpg",
         sp_name: "呂隆昇",
-        sp_title: "Sunday first Sunday first",
-        sp_discript: `Sunday first Sunday first Sunday first Sunday first Sunday first `
+        sp_title: "",
+        sp_discript: `現職 
+        <br>臺北醫學大學附設醫院放射腫瘤科 主治醫師  
+        <br>臺北醫學大學附設醫院院長室癌症卓越研究中心 副主任 
+        <br>臺北醫學大學附設醫院院長室細胞治療中心 主任 `
     },
     {
         sp_image: "./es2024/images/LUM.jpg",
         sp_name: "廖優美",
-        sp_title: "Sunday first Sunday first",
-        sp_discript: `Sunday first Sunday first Sunday first Sunday first Sunday first `
+        sp_title: "",
+        sp_discript: `現職 
+        <br>高雄醫學大學附設中和紀念醫院小兒血液腫瘤科 主治醫師 `
     },
 
 ]

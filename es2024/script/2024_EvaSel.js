@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const h5 = document.createElement("h5");
         h5.textContent = content.sp_title;
         const p = document.createElement("p");
-        p.textContent = content.sp_discript;
+        p.innerHTML = content.sp_discript;
 
         const sptxt_div = document.createElement("div");
         sptxt_div.classList.add("sb_txt");
