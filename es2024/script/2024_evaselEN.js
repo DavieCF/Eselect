@@ -115,31 +115,24 @@ const agendaEN = './es2024/images/agendaEN.png';
 
 const faqLEN = [
     {
-        question: "FAQ Question 1",
-        anwer: "Here is the answer to FAQ Question 2.",
+        question: "甚麼是EVA Select: ",
+        anwer: `精拓生技提供的個人化癌症藥物測試平台，主要由專利循環腫瘤細胞(Circulating tumor cell, CTC)擴增技術以及藥物測試平台所組成。 
+        透過簡易的抽血為病人擴增血液中CTC數量，進而提供高品質及足夠數量的CTC做後續個人化測試及分析。此產品為可以從病人自體檢體的樣本到臨床藥物效益分析，最後回饋給病人及專業醫事人員做臨床專業判斷之服務流程，可廣泛應用於各種實體腫瘤，無須透過侵入式檢測增加病人身體負擔，為低風險且廣用性高的產品。 `,
     },
     {
-        question: "FAQ Question 1",
-        anwer: "Here is the answer to FAQ Question 2.",
-    },
-    {
-        question: "FAQ Question 1",
-        anwer: "Here is the answer to FAQ Question 2.",
+        question: "如何報名: ",
+        anwer: "進入官網後，找到ACCUPASS連結，即可利用ACCUPASS進行報名 ",
     },
 
 ]
 const faqREN = [
     {
-        question: "FAQ Question 1",
-        anwer: "Here is the answer to FAQ Question 2.",
+        question: "邀請代碼: ",
+        anwer: "進入ACCUPASS介面後，請利用主辦方針對各家醫院、基金會、單位所提供的邀請代碼，將表單填寫完成，以兌換研討會直播免費連結。",
     },
     {
-        question: "FAQ Question 1",
-        anwer: "Here is the answer to FAQ Question 2.",
-    },
-    {
-        question: "FAQ Question 1",
-        anwer: "Here is the answer to FAQ Question 2.",
+        question: "費用: ",
+        anwer: "本研討會採邀請制，受邀單位皆能以邀請代碼報名，參加費用完全免費 ",
     },
 
 ]
@@ -147,11 +140,5 @@ const faqREN = [
 const organizerEN = [
     {
         org_src: "es2024/images/CFBiocn2.png",
-    },
-    {
-        org_src: "es2024/images/DNA.png",
-    },
-    {
-        org_src: "es2024/images/GOL.png",
     },
 ]
