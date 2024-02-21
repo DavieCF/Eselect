@@ -95,7 +95,7 @@ nav {
     margin: 0.1px;
     padding: 0.1px;
     background: linear-gradient(to right, #e0aaa6 10%, #232343 50%, #232343 60%, #78b4b5 90%);
-    box-shadow: 0px 5px 10px #f5eae1;
+    box-shadow: 0px 1px 3px #f5eae1;
     position: fixed;
     top: 0%;
     z-index: 2;
@@ -340,4 +340,10 @@ nav a:hover::after {
     object-fit: contain;
     mix-blend-mode: color-burn;
     filter: saturate(0);
+}
+
+#Registration {}
+
+.Accupass_icon {
+    width: 70vw;
 }
